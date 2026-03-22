@@ -13,15 +13,12 @@ This repository contains a research-based analytics project focused on structure
 ## Repository Structure
 
 ```text
-analytics-research-methods/
+analytics-research-methodology/
 ├── README.md
-├── .gitignore
 ├── reports/
-│   ├── final_research_paper.docx
-│   └── research_paper_draft.docx
-├── notes/
-│   └── research_questions_outline.docx
+│   ├── APA Final Research Paper Willow Westbrook.docx
+│   └── research paper draft.docx
 └── assets/
-    ├── aveir_device_diagram.jpg
-    ├── aveir_device_image.jpg
-    └── supporting_diagram_01.png
+    ├── aveir diagram.jpg
+    ├── aveir picture.jpg
+    └── diagram 1.png
